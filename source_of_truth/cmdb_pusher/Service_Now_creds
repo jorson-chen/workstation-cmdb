@@ -1,0 +1,5 @@
+[Settings]
+API = https://example.com/api/now/table/cmdb_ci_computer
+Computer_Table_User =
+Computer_Table_Secret =
+Application_Name =

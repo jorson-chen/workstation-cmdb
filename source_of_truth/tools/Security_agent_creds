@@ -1,0 +1,11 @@
+[Settings]
+Jamf_User =
+Jamf_password =
+JAMF_API = https://example.com:8443/JSSResource
+Tenable_Client_Id =
+Tenable_Secret_Id =
+Crowdstroke_Client_Id =
+Crowdstrike_Secret_Id =
+Cylance_Application_ID =
+Cylance_Secret =
+Cylance_Tenant_ID =
